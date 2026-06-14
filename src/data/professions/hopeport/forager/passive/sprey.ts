@@ -15,7 +15,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 6,
             albumXp: 706,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Ditch Sprey',
@@ -23,7 +23,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 17.6,
             albumXp: 1_730,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Gravel Sprey',
@@ -31,7 +31,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 42,
             albumXp: 3_640,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Balk Sprey',
@@ -39,7 +39,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 83,
             albumXp: 6_410,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Tuffet Sprey',
@@ -47,7 +47,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 212,
             albumXp: 10_594,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Sentinel Sprey',
@@ -55,7 +55,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 501.5,
             albumXp: 18_165,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Fine Sprey',
@@ -63,7 +63,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 1_023.6,
             albumXp: 28_812,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Pepper Sprey',
@@ -71,7 +71,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 1_924.1,
             albumXp: 43_694,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Mystic Sprey',
@@ -79,7 +79,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 3_443.6,
             albumXp: 64_573,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Duke Sprey',
@@ -87,7 +87,7 @@ export const Sprey: PassiveSkillNode = {
             xpPerAction: 5_972.2,
             albumXp: 94_116,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
     ]
 }

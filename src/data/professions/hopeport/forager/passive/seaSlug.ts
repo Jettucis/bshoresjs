@@ -15,7 +15,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 2.5,
             albumXp: 488,
             quantityPerAction: 0.005,
-            itemsRequired: ['Basic 0 Pond Net', 'Bucket']
+            equipment: 'Basic 0 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Silver Sea Slug',
@@ -23,7 +24,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 10.7,
             albumXp: 1_195,
             quantityPerAction: 0.005,
-            itemsRequired: ['Moderate 1 Pond Net', 'Bucket']
+            equipment: 'Moderate 1 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Slithery Sea Slug',
@@ -31,7 +33,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 29.8,
             albumXp: 2_850,
             quantityPerAction: 0.005,
-            itemsRequired: ['Moderate 1 Pond Net', 'Bucket']
+            equipment: 'Moderate 1 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Brown Sea Slug',
@@ -39,7 +42,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 63.9,
             albumXp: 5_298,
             quantityPerAction: 0.005,
-            itemsRequired: ['Fine 3 Pond Net', 'Bucket']
+            equipment: 'Fine 3 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Gunky Sea Slug',
@@ -47,7 +51,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 125.7,
             albumXp: 9_000,
             quantityPerAction: 0.005,
-            itemsRequired: ['Fine 3 Pond Net', 'Bucket']
+            equipment: 'Fine 3 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Fleshy Sea Slug',
@@ -55,7 +60,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 358.1,
             albumXp: 15_657,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sturdy 5 Pond Net', 'Bucket']
+            equipment: 'Sturdy 5 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Lumpy Sea Slug',
@@ -63,7 +69,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 792.3,
             albumXp: 25_000,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sturdy 5 Pond Net', 'Bucket']
+            equipment: 'Sturdy 5 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Juicy Sea Slug',
@@ -71,7 +78,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 1_565.5,
             albumXp: 37_971,
             quantityPerAction: 0.005,
-            itemsRequired: ['Excellent 7 Pond Net', 'Bucket']
+            equipment: 'Excellent 7 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Clammy Sea Slug',
@@ -79,7 +87,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 2_888.5,
             albumXp: 56_000,
             quantityPerAction: 0.005,
-            itemsRequired: ['Excellent 7 Pond Net', 'Bucket']
+            equipment: 'Excellent 7 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Glutinous Sea Slug',
@@ -87,7 +96,8 @@ export const SeaSlug: PassiveSkillNode = {
             xpPerAction: 5_107,
             albumXp: 81_255,
             quantityPerAction: 0.005,
-            itemsRequired: ['Perfect 9 Pond Net', 'Bucket']
+            equipment: 'Perfect 9 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
     ]
 }

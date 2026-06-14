@@ -15,7 +15,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 4.8,
             albumXp: 633,
             quantityPerAction: 0.005,
-            itemsRequired: ['Basic 0 Trowel', 'Bucket']
+            equipment: 'Basic 0 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Pine Needle Worms',
@@ -23,7 +24,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 15.4,
             albumXp: 1_549,
             quantityPerAction: 0.005,
-            itemsRequired: ['Moderate 1 Trowel', 'Bucket']
+            equipment: 'Moderate 1 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Red Worms',
@@ -31,7 +33,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 38.4,
             albumXp: 3_372,
             quantityPerAction: 0.005,
-            itemsRequired: ['Moderate 1 Trowel', 'Bucket']
+            equipment: 'Moderate 1 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Squirm Worms',
@@ -39,7 +42,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 77.6,
             albumXp: 6_030,
             quantityPerAction: 0.005,
-            itemsRequired: ['Fine 3 Trowel', 'Bucket']
+            equipment: 'Fine 3 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Kanner Worms',
@@ -47,7 +51,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 185.4,
             albumXp: 10_047,
             quantityPerAction: 0.005,
-            itemsRequired: ['Fine 3 Trowel', 'Bucket']
+            equipment: 'Fine 3 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Compost Worms',
@@ -55,7 +60,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 459.2,
             albumXp: 17_299,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sturdy 5 Trowel', 'Bucket']
+            equipment: 'Sturdy 5 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Turning Worms',
@@ -63,7 +69,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 957.5,
             albumXp: 27_487,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sturdy 5 Trowel', 'Bucket']
+            equipment: 'Sturdy 5 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Welch Worms',
@@ -71,7 +78,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 1_828.9,
             albumXp: 41_695,
             quantityPerAction: 0.005,
-            itemsRequired: ['Excellent 7 Trowel', 'Bucket']
+            equipment: 'Excellent 7 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Lump Worms',
@@ -79,7 +87,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 3_299.8,
             albumXp: 61_564,
             quantityPerAction: 0.005,
-            itemsRequired: ['Excellent 7 Trowel', 'Bucket']
+            equipment: 'Excellent 7 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Lurch Worms',
@@ -87,7 +96,8 @@ export const Worms: PassiveSkillNode = {
             xpPerAction: 5_750.7,
             albumXp: 89_585,
             quantityPerAction: 0.005,
-            itemsRequired: ['Perfect 9 Trowel', 'Bucket']
+            equipment: 'Perfect 9 Trowel',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
     ]
 }

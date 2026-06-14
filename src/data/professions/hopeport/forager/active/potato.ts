@@ -18,7 +18,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 104,
             albumXp: 488,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Trowel']
+            equipment: 'Basic 0 Trowel'
         },
         {
             itemName: 'King Phelwan Potato',
@@ -27,7 +27,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 97,
             albumXp: 1_639,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Calystra Potato',
@@ -36,7 +36,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 97,
             albumXp: 3_559,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Colawan Potato',
@@ -45,7 +45,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 96,
             albumXp: 6_295,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Bitterbide Potato',
@@ -54,7 +54,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 96,
             albumXp: 10_428,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Reuben Potato',
@@ -63,7 +63,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 95,
             albumXp: 17_902,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Bollbark Potato',
@@ -72,7 +72,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 95,
             albumXp: 28_409,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Greengrail Potato',
@@ -81,7 +81,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 95,
             albumXp: 43_084,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Yamitan Potato',
@@ -90,7 +90,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 95,
             albumXp: 63_653,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Galimeer Potato',
@@ -99,7 +99,7 @@ export const Potato: ActiveSkillNode = {
             knowledgePerAction: 80,
             albumXp: 92_729,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Trowel']
+            equipment: 'Perfect 9 Trowel'
         },
     ]
 }

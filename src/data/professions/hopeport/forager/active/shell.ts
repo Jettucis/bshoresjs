@@ -18,7 +18,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 93,
             albumXp: 368,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Trowel']
+            equipment: 'Basic 0 Trowel'
         },
         {
             itemName: 'Bowl Shell',
@@ -27,7 +27,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 1_389,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Basin Shell',
@@ -36,7 +36,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 3_240,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Crown Shell',
@@ -45,7 +45,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 5_844,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Scallop Shell',
@@ -54,7 +54,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 9_779,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Trobwig Shell',
@@ -63,7 +63,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 85,
             albumXp: 16_877,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Cone Shell',
@@ -72,7 +72,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 85,
             albumXp: 26_846,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Dish Shell',
@@ -81,7 +81,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 84,
             albumXp: 40_731,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Helmet Shell',
@@ -90,7 +90,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 84,
             albumXp: 60_118,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Zenith Shell',
@@ -99,7 +99,7 @@ export const Shell: ActiveSkillNode = {
             knowledgePerAction: 84,
             albumXp: 87_414,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Trowel']
+            equipment: 'Perfect 9 Trowel'
         },
     ]
 }

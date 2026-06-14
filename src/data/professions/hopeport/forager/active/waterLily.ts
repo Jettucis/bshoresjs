@@ -18,7 +18,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 88,
             albumXp: 524,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Pond Net']
+            equipment: 'Basic 0 Pond Net'
         },
         {
             itemName: 'Caramel Water Lily',
@@ -27,7 +27,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 1_675,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Pond Net']
+            equipment: 'Moderate 1 Pond Net'
         },
         {
             itemName: 'Copper Water Lily',
@@ -36,7 +36,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 3_640,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Pond Net']
+            equipment: 'Moderate 1 Pond Net'
         },
         {
             itemName: 'Cerulean Water Lily',
@@ -45,7 +45,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 6_410,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Pond Net']
+            equipment: 'Fine 3 Pond Net'
         },
         {
             itemName: 'Leopardess Water Lily',
@@ -54,7 +54,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 10_594,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Pond Net']
+            equipment: 'Fine 3 Pond Net'
         },
         {
             itemName: 'Peach Glow Water Lily',
@@ -63,7 +63,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 80,
             albumXp: 18_165,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Pond Net']
+            equipment: 'Sturdy 5 Pond Net'
         },
         {
             itemName: 'Broad Water Lily',
@@ -72,7 +72,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 80,
             albumXp: 28_812,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Pond Net']
+            equipment: 'Sturdy 5 Pond Net'
         },
         {
             itemName: 'Snowball Water Lily',
@@ -81,7 +81,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 79,
             albumXp: 43_694,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Pond Net']
+            equipment: 'Excellent 7 Pond Net'
         },
         {
             itemName: 'Almost Black Water Lily',
@@ -90,7 +90,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 79,
             albumXp: 64_573,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Pond Net']
+            equipment: 'Excellent 7 Pond Net'
         },
         {
             itemName: "Dragon's Breath Water Lily",
@@ -99,7 +99,7 @@ export const WaterLily: ActiveSkillNode = {
             knowledgePerAction: 79,
             albumXp: 94_116,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Pond Net']
+            equipment: 'Perfect 9 Pond Net'
         },
     ]
 }

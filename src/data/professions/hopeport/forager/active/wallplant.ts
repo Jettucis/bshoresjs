@@ -18,7 +18,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 79,
             albumXp: 286,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Secateurs']
+            equipment: 'Basic 0 Secateurs'
         },
         {
             itemName: 'Vibrant Wallplant',
@@ -27,7 +27,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 74,
             albumXp: 1_230,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Secateurs']
+            equipment: 'Moderate 1 Secateurs'
         },
         {
             itemName: 'Teal Wallplant',
@@ -36,7 +36,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 74,
             albumXp: 3_031,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Secateurs']
+            equipment: 'Moderate 1 Secateurs'
         },
         {
             itemName: 'Scarlet Wallplant',
@@ -45,7 +45,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 5_550,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Secateurs']
+            equipment: 'Fine 3 Secateurs'
         },
         {
             itemName: 'Midnight Wallplant',
@@ -54,7 +54,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 9_360,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Secateurs']
+            equipment: 'Fine 3 Secateurs'
         },
         {
             itemName: 'Midday Wallplant',
@@ -63,7 +63,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 16_219,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Secateurs']
+            equipment: 'Sturdy 5 Secateurs'
         },
         {
             itemName: 'Marangay Wallplant',
@@ -72,7 +72,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 25_848,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Secateurs']
+            equipment: 'Sturdy 5 Secateurs'
         },
         {
             itemName: 'Happyday Wallplant',
@@ -81,7 +81,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 72,
             albumXp: 39_235,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Secateurs']
+            equipment: 'Excellent 7 Secateurs'
         },
         {
             itemName: 'Vivid Wallplant',
@@ -90,7 +90,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 72,
             albumXp: 57_883,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Secateurs']
+            equipment: 'Excellent 7 Secateurs'
         },
         {
             itemName: 'Festival Wallplant',
@@ -99,7 +99,7 @@ export const Wallplant: ActiveSkillNode = {
             knowledgePerAction: 72,
             albumXp: 84_065,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Secateurs']
+            equipment: 'Perfect 9 Secateurs'
         },
     ]
 }

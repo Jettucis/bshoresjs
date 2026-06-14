@@ -18,7 +18,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 87,
             albumXp: 404,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Trowel']
+            equipment: 'Basic 0 Trowel'
         },
         {
             itemName: 'Gray Goat Horn',
@@ -27,7 +27,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 82,
             albumXp: 1_424,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Ridged Goat Horn',
@@ -36,7 +36,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 82,
             albumXp: 3_292,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Crooked Goat Horn',
@@ -45,7 +45,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 5_918,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Long Goat Horn',
@@ -54,7 +54,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 9_886,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Looping Goat Horn',
@@ -63,7 +63,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 17_045,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Hooked Goat Horn',
@@ -72,7 +72,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 27_101,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Smooth Goat Horn',
@@ -81,7 +81,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 80,
             albumXp: 41_113,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Robust Goat Horn',
@@ -90,7 +90,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 80,
             albumXp: 60_692,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Greatest Goat Horn',
@@ -99,7 +99,7 @@ export const GoatHorn: ActiveSkillNode = {
             knowledgePerAction: 80,
             albumXp: 88_275,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Trowel']
+            equipment: 'Perfect 9 Trowel'
         },
     ]
 }

@@ -15,7 +15,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 3.5,
             albumXp: 560,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'White Fluffy Feather',
@@ -23,7 +23,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 12,
             albumXp: 1_371,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Orange and Black Feather',
@@ -31,7 +31,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 31.5,
             albumXp: 3_109,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Shimmering Feather',
@@ -39,7 +39,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 65.4,
             albumXp: 5_659,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Magnificent Feather',
@@ -47,7 +47,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 143.7,
             albumXp: 9_516,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Pied Feather',
@@ -55,7 +55,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 378.2,
             albumXp: 16_463,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Fluffy Feather',
@@ -63,7 +63,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 809.1,
             albumXp: 26_218,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Streaky Feather',
@@ -71,7 +71,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 1_569.6,
             albumXp: 39_789,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Flamboyant Feather',
@@ -79,7 +79,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 2_858.5,
             albumXp: 58_710,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
         {
             itemName: 'Sapphire Feather',
@@ -87,7 +87,7 @@ export const Feather: PassiveSkillNode = {
             xpPerAction: 5_019.3,
             albumXp: 85_303,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sack']
+            input: [{ itemName: 'Sack', quantity: 0.005 }]
         },
     ]
 }

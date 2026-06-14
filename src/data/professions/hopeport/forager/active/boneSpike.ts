@@ -18,7 +18,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 81,
             albumXp: 608,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Trowel']
+            equipment: 'Basic 0 Trowel'
         },
         {
             itemName: 'Dappled Bone Spike',
@@ -27,7 +27,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 76,
             albumXp: 1_785,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Bistre Bone Spike',
@@ -36,7 +36,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 76,
             albumXp: 3_776,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Pointed Bone Spike',
@@ -45,7 +45,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 76,
             albumXp: 6_604,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Cracked Bone Spike',
@@ -54,7 +54,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 76,
             albumXp: 10_874,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Jagged Bone Spike',
@@ -63,7 +63,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 75,
             albumXp: 18_611,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Splintery Bone Spike',
@@ -72,7 +72,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 75,
             albumXp: 29_496,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Hardened Bone Spike',
@@ -81,7 +81,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 75,
             albumXp: 44_731,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Razor Bone Spike',
@@ -90,7 +90,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 75,
             albumXp: 66_138,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Vicious Bone Spike',
@@ -99,7 +99,7 @@ export const BoneSpike: ActiveSkillNode = {
             knowledgePerAction: 74,
             albumXp: 96_481,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Trowel']
+            equipment: 'Perfect 9 Trowel'
         },
     ]
 }

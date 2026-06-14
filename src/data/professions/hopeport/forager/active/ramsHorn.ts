@@ -18,7 +18,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 79,
             albumXp: 804,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Trowel']
+            equipment: 'Basic 0 Trowel'
         },
         {
             itemName: 'Mottled Rams Horn',
@@ -27,7 +27,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 74,
             albumXp: 2_044,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Sturdy Rams Horn',
@@ -36,7 +36,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 74,
             albumXp: 4_109,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Chunky Rams Horn',
@@ -45,7 +45,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 74,
             albumXp: 7_079,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Pristine Rams Horn',
@@ -54,7 +54,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 74,
             albumXp: 11_566,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Twisted Rams Horn',
@@ -63,7 +63,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 19_716,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Darkstreak Rams Horn',
@@ -72,7 +72,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 31_202,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Immaculate Rams Horn',
@@ -81,7 +81,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 47_327,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Pitted Rams Horn',
@@ -90,7 +90,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 73,
             albumXp: 70_074,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Redflank Rams Horn',
@@ -99,7 +99,7 @@ export const RamsHorn: ActiveSkillNode = {
             knowledgePerAction: 72,
             albumXp: 102_443,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Trowel']
+            equipment: 'Perfect 9 Trowel'
         },
     ]
 }

@@ -15,7 +15,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 6.9,
             albumXp: 743,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Pasty Maggots',
@@ -23,7 +23,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 19.6,
             albumXp: 1_821,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Icky Maggots',
@@ -31,7 +31,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 46,
             albumXp: 3_776,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Rosy Maggots',
@@ -39,7 +39,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 89.9,
             albumXp: 6_604,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Writhing Maggots',
@@ -47,7 +47,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 236.1,
             albumXp: 10_874,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Festering Maggots',
@@ -55,7 +55,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 547.7,
             albumXp: 18_611,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Sticky Maggots',
@@ -63,7 +63,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 1_106.1,
             albumXp: 29_496,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'High Protein Maggots',
@@ -71,7 +71,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 2_070.4,
             albumXp: 44_731,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Ravenous Maggots',
@@ -79,7 +79,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 3_686.8,
             albumXp: 66_138,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Meaty Maggots',
@@ -87,7 +87,7 @@ export const Maggots: PassiveSkillNode = {
             xpPerAction: 6_380.3,
             albumXp: 96_481,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
     ]
 }

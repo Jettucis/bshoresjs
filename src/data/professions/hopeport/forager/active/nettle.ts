@@ -18,7 +18,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 92,
             albumXp: 1_478,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Secateurs']
+            equipment: 'Moderate 1 Secateurs'
         },
         {
             itemName: 'White Nettle',
@@ -27,7 +27,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 92,
             albumXp: 3_372,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Secateurs']
+            equipment: 'Moderate 1 Secateurs'
         },
         {
             itemName: 'Brightblade Nettle',
@@ -36,7 +36,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 91,
             albumXp: 6_030,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Secateurs']
+            equipment: 'Fine 3 Secateurs'
         },
         {
             itemName: 'Blood Nettle',
@@ -45,7 +45,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 91,
             albumXp: 10_047,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Secateurs']
+            equipment: 'Fine 3 Secateurs'
         },
         {
             itemName: 'Heartleaf Nettle',
@@ -54,7 +54,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 90,
             albumXp: 17_299,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Secateurs']
+            equipment: 'Sturdy 5 Secateurs'
         },
         {
             itemName: 'Fine-fettle Nettle',
@@ -63,7 +63,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 90,
             albumXp: 27_487,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Secateurs']
+            equipment: 'Sturdy 5 Secateurs'
         },
         {
             itemName: 'Rusty Nettle',
@@ -72,7 +72,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 90,
             albumXp: 41_695,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Secateurs']
+            equipment: 'Excellent 7 Secateurs'
         },
         {
             itemName: 'Harshvenom Nettle',
@@ -81,7 +81,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 90,
             albumXp: 61_564,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Secateurs']
+            equipment: 'Excellent 7 Secateurs'
         },
         {
             itemName: 'Ironleaf Nettle',
@@ -90,7 +90,7 @@ export const Nettle: ActiveSkillNode = {
             knowledgePerAction: 89,
             albumXp: 89_585,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Secateurs']
+            equipment: 'Perfect 9 Secateurs'
         }
     ]
 }

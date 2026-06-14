@@ -19,7 +19,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 92,
             albumXp: 767,
             quantityPerAction: 1,
-            itemsRequired: ['Basic 0 Trowel']
+            equipment: 'Basic 0 Trowel'
         },
         {
             itemName: 'Dusty Femur Shard',
@@ -28,7 +28,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 1_988,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Weathered Femur Shard',
@@ -37,7 +37,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 4_053,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Striated Femur Shard',
@@ -46,7 +46,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 6_999,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Musty Femur Shard',
@@ -55,7 +55,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 86,
             albumXp: 11_449,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Sharp Femur Shard',
@@ -64,7 +64,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 85,
             albumXp: 19_528,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Jagged Femur Shard',
@@ -73,7 +73,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 85,
             albumXp: 30_911,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Hard Femur Shard',
@@ -82,7 +82,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 85,
             albumXp: 46_883,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Exquisite Femur Shard',
@@ -91,7 +91,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 85,
             albumXp: 69_400,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Chunky Femur Shard',
@@ -100,7 +100,7 @@ export const FemurShard: ActiveSkillNode = {
             knowledgePerAction: 84,
             albumXp: 101_420,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Trowel']
+            equipment: 'Perfect 9 Trowel'
         },
     ]
 }

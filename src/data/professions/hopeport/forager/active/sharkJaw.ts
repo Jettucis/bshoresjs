@@ -18,7 +18,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 63,
             albumXp: 1_283,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Eroded Shark Jaw',
@@ -27,7 +27,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 63,
             albumXp: 3_109,
             quantityPerAction: 1,
-            itemsRequired: ['Moderate 1 Trowel']
+            equipment: 'Moderate 1 Trowel'
         },
         {
             itemName: 'Brittle Shark Jaw',
@@ -36,7 +36,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 62,
             albumXp: 5_659,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Intact Shark Jaw',
@@ -45,7 +45,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 62,
             albumXp: 9_516,
             quantityPerAction: 1,
-            itemsRequired: ['Fine 3 Trowel']
+            equipment: 'Fine 3 Trowel'
         },
         {
             itemName: 'Gray Shark Jaw',
@@ -54,7 +54,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 62,
             albumXp: 16_463,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Durable Shark Jaw',
@@ -63,7 +63,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 62,
             albumXp: 26_218,
             quantityPerAction: 1,
-            itemsRequired: ['Sturdy 5 Trowel']
+            equipment: 'Sturdy 5 Trowel'
         },
         {
             itemName: 'Iron Jaw Shark Jaw',
@@ -72,7 +72,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 62,
             albumXp: 39_789,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Flawless Shark Jaw',
@@ -81,7 +81,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 62,
             albumXp: 58_710,
             quantityPerAction: 1,
-            itemsRequired: ['Excellent 7 Trowel']
+            equipment: 'Excellent 7 Trowel'
         },
         {
             itemName: 'Great White Shark Jaw',
@@ -90,7 +90,7 @@ export const SharkJaw: ActiveSkillNode = {
             knowledgePerAction: 61,
             albumXp: 85_303,
             quantityPerAction: 1,
-            itemsRequired: ['Perfect 9 Trowel']
+            equipment: 'Perfect 9 Trowel'
         }
     ]
 }

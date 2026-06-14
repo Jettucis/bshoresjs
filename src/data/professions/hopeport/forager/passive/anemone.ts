@@ -15,7 +15,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 4.6,
             albumXp: 669,
             quantityPerAction: 0.005,
-            itemsRequired: ['Basic 0 Pond Net', 'Bucket']
+            equipment: 'Basic 0 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Strawberry Anemone',
@@ -23,7 +24,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 14.2,
             albumXp: 1_639,
             quantityPerAction: 0.005,
-            itemsRequired: ['Moderate 1 Pond Net', 'Bucket']
+            equipment: 'Moderate 1 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Dahlia Anemone',
@@ -31,7 +33,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 34.4,
             albumXp: 3_505,
             quantityPerAction: 0.005,
-            itemsRequired: ['Moderate 1 Pond Net', 'Bucket']
+            equipment: 'Moderate 1 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Snakelocks Anemone',
@@ -39,7 +42,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 68.9,
             albumXp: 6_219,
             quantityPerAction: 0.005,
-            itemsRequired: ['Fine 3 Pond Net', 'Bucket']
+            equipment: 'Fine 3 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Elegant Anemone',
@@ -47,7 +51,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 170.294,
             albumXp: 10_318,
             quantityPerAction: 0.005,
-            itemsRequired: ['Fine 3 Pond Net', 'Bucket']
+            equipment: 'Fine 3 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Riterri Anemone',
@@ -55,7 +60,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 411.7,
             albumXp: 17_728,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sturdy 5 Pond Net', 'Bucket']
+            equipment: 'Sturdy 5 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Gem Anemone',
@@ -63,7 +69,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 849,
             albumXp: 28_143,
             quantityPerAction: 0.005,
-            itemsRequired: ['Sturdy 5 Pond Net', 'Bucket']
+            equipment: 'Sturdy 5 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Satin Anemone',
@@ -71,7 +78,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 1_608.1,
             albumXp: 42_682,
             quantityPerAction: 0.005,
-            itemsRequired: ['Excellent 7 Pond Net', 'Bucket']
+            equipment: 'Excellent 7 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Giant Green Anemone',
@@ -79,7 +87,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 2_889.3,
             albumXp: 63_048,
             quantityPerAction: 0.005,
-            itemsRequired: ['Excellent 7 Pond Net', 'Bucket']
+            equipment: 'Excellent 7 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
         {
             itemName: 'Starburst Anemone',
@@ -87,7 +96,8 @@ export const Anemone: PassiveSkillNode = {
             xpPerAction: 5_022.5,
             albumXp: 91_818,
             quantityPerAction: 0.005,
-            itemsRequired: ['Perfect 9 Pond Net', 'Bucket']
+            equipment: 'Perfect 9 Pond Net',
+            input: [{ itemName: 'Bucket', quantity: 0.005 }]
         },
     ]
 }

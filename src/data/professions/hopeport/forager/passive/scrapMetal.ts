@@ -15,7 +15,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 7.4,
             albumXp: 817,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Tarnished Scrap Metal',
@@ -23,7 +23,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 20,
             albumXp: 2_007,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Twisted Scrap Metal',
@@ -31,7 +31,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 45.3,
             albumXp: 4_053,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Clean Scrap Metal',
@@ -39,7 +39,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 87.2,
             albumXp: 6_999,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Miscellaneous Scrap Metal',
@@ -47,7 +47,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 240.2,
             albumXp: 11_449,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Interesting Scrap Metal',
@@ -55,7 +55,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 538.3,
             albumXp: 19_528,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Substantial Scrap Metal',
@@ -63,7 +63,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 1_069.6,
             albumXp: 30_911,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Splendid Scrap Metal',
@@ -71,7 +71,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 11_981.7,
             albumXp: 46_883,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Lustrous Scrap Metal',
@@ -79,7 +79,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 3_507.1,
             albumXp: 69_400,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
         {
             itemName: 'Pristine Scrap Metal',
@@ -87,7 +87,7 @@ export const ScrapMetal: PassiveSkillNode = {
             xpPerAction: 6_037.6,
             albumXp: 101_420,
             quantityPerAction: 0.005,
-            itemsRequired: ['Crate']
+            input: [{ itemName: 'Crate', quantity: 0.005 }]
         },
     ]
 }

@@ -1,4 +1,4 @@
-import { Episode, ProfessionName } from "./general";
+import { Episode, ItemInput, ProfessionName } from "./general";
 
 /** A single harvestable variant of passive skill node. Each profession level range unlocks a new variant of the node (e.g. Brown Kelp -> Green Kelp). */
 export interface PassiveSkillNodeVariant {
@@ -8,7 +8,8 @@ export interface PassiveSkillNodeVariant {
     albumXp: number;
     quantityPerAction: number;
     isPaid?: boolean;
-    itemsRequired?: string[];
+    equipment?: string;
+    input?: ItemInput[];
 }
 /** A gatherable passive skill node. Shared shape used by Forager, Fisher, Woodcutter, Miner, Botanist etc. */
 export interface PassiveSkillNode {

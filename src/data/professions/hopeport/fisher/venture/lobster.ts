@@ -15,9 +15,7 @@ export const Lobster: VentureNode = {
             xpReward: 11_011,
             albumXp: 1_195,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Moderate 1 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Moderate 1 Lobster Pot'
         },
         {
             itemName: 'Striped Lobster',
@@ -25,9 +23,7 @@ export const Lobster: VentureNode = {
             xpReward: 39_557,
             albumXp: 3_505,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Average 2 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Average 2 Lobster Pot'
         },
         {
             itemName: 'Ghost Lobster',
@@ -35,9 +31,7 @@ export const Lobster: VentureNode = {
             xpReward: 79_132,
             albumXp: 6_219,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Fine 3 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Fine 3 Lobster Pot'
         },
         {
             itemName: 'Flavorsome Lobster',
@@ -45,9 +39,7 @@ export const Lobster: VentureNode = {
             xpReward: 195_819,
             albumXp: 10_318,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Fine 3 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Fine 3 Lobster Pot'
         },
         {
             itemName: 'Heavy Lobster',
@@ -55,9 +47,7 @@ export const Lobster: VentureNode = {
             xpReward: 473_413,
             albumXp: 17_728,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Sturdy 5 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Sturdy 5 Lobster Pot'
         },
         {
             itemName: 'Cunning Lobster',
@@ -65,9 +55,7 @@ export const Lobster: VentureNode = {
             xpReward: 976_274,
             albumXp: 28_143,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Sturdy 5 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Sturdy 5 Lobster Pot'
         },
         {
             itemName: 'Flobber Lobster',
@@ -75,9 +63,7 @@ export const Lobster: VentureNode = {
             xpReward: 1_849_310,
             albumXp: 42_682,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Excellent 7 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Excellent 7 Lobster Pot'
         },
         {
             itemName: 'Biscuit Lobster',
@@ -85,9 +71,7 @@ export const Lobster: VentureNode = {
             xpReward: 3_322_651,
             albumXp: 63_048,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Excellent 7 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Excellent 7 Lobster Pot'
         },
         {
             itemName: 'Rock Lobster',
@@ -95,9 +79,7 @@ export const Lobster: VentureNode = {
             xpReward: 5_775_862,
             albumXp: 91_818,
             rewardQuantity: 50,
-            itemsRequired: [
-                { itemName: 'Perfect 9 Lobster Pot', quantity: 1 }
-            ]
+            equipment: 'Perfect 9 Lobster Pot'
         }
     ]
 }

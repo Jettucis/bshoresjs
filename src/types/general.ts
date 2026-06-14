@@ -29,6 +29,10 @@ export type ProfessionName =
     | 'armorer'
     | 'delver';
 
+export interface ItemInput {
+    itemName: string;
+    quantity: number;
+}
 /**
  * A "level" in Brighter Shores is displayed as Milestone + Level-within-milestone,
  * e.g. 2:34 means Milestone 2, Level 34 -> absolute level 134 (milestones are blocks of 50).

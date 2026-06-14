@@ -15,7 +15,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 6.5,
             albumXp: 780,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Star Beetle',
@@ -23,7 +23,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 18,
             albumXp: 1_914,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Blackcurrant Beetle',
@@ -31,7 +31,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 41.4,
             albumXp: 3_914,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Dark Ruby Beetle',
@@ -39,7 +39,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 80.2,
             albumXp: 6_800,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Fire Beetle',
@@ -47,7 +47,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 216,
             albumXp: 11_159,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Wish Beetle',
@@ -55,7 +55,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 491.8,
             albumXp: 19_065,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Carriage Beetle',
@@ -63,7 +63,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 986.2,
             albumXp: 30_196,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Turquoise Beetle',
@@ -71,7 +71,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 1_833.5,
             albumXp: 45_793,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Burnished Beetle',
@@ -79,7 +79,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 3_259.3,
             albumXp: 67_747,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Topaz Beetle',
@@ -87,7 +87,7 @@ export const Beetle: PassiveSkillNode = {
             xpPerAction: 5_620.8,
             albumXp: 98_915,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
     ]
 }

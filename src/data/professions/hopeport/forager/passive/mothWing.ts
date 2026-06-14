@@ -15,7 +15,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 4.5,
             albumXp: 596,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Lacy Moth Wing',
@@ -23,7 +23,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 15,
             albumXp: 1_460,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Hoaxeye Moth Wing',
@@ -31,7 +31,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 38.3,
             albumXp: 3_240,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Eyed Moth Wing',
@@ -39,7 +39,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 78.6,
             albumXp: 5_844,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Labyrinth Moth Wing',
@@ -47,7 +47,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 180.294,
             albumXp: 9_779,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Pinstripe Moth Wing',
@@ -55,7 +55,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 459.1,
             albumXp: 16_877,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Primrose Moth Wing',
@@ -63,7 +63,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 970.7,
             albumXp: 26_846,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Gossamer Moth Wing',
@@ -71,7 +71,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 1_864.8,
             albumXp: 40_731,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Whirled Moth Wing',
@@ -79,7 +79,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 3_385.4,
             albumXp: 60_118,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
         {
             itemName: 'Evening Star Moth Wing',
@@ -87,7 +87,7 @@ export const MothWing: PassiveSkillNode = {
             xpPerAction: 5_916.1,
             albumXp: 87_414,
             quantityPerAction: 0.005,
-            itemsRequired: ['Jar']
+            input: [{ itemName: 'Jar', quantity: 0.005 }]
         },
     ]
 }
