@@ -5,7 +5,9 @@ export interface ActiveSkillNodeVariant {
     itemName: string;
     levelRequired: number;
     xpPerAction: number;
+    xpPerCoopAction?: number;
     knowledgePerAction: number;
+    knowledgePerCoopAction?: number;
     albumXp: number;
     quantityPerAction: number;
     equipment?: string;
@@ -17,6 +19,7 @@ export interface ActiveSkillNode {
     profession: ProfessionName;
     episode: Episode;
     activityTimeSeconds: number;
+    activityTimeCoopSeconds?: number;
     respawnTimeSeconds: number;
     nodeCount: number;
     actionsPerHourBanking: number;
